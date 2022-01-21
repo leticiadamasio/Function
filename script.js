@@ -23,9 +23,9 @@ dados("Letícia",10,"jazz")
 //4 - Crie uma função que receba um filme, uma música (parâmetros) e exiba no console
 
 function estilo(filme, musica){
-    console.log(`Você escolheu o filme: ${filme} e a música ${musica} `)
+    console.log(`Você escolheu o filme: ${filme} e a música: ${musica} `)
 }
-dados("Como eu era antes de você", "Ela não - Ludmilla (Numanice)")
+estilo("Como eu era antes de você", "Ela não - Ludmilla (Numanice)")
 
 //5 - Crie uma função que retorne o triplo do número recebido no (parâmetro)
 
